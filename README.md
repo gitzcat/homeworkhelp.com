@@ -1,2 +1,2 @@
-# homeworkhelp.com
+# homeworkhelp.github.io
 homework help!
